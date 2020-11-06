@@ -24,6 +24,8 @@ npm run dev
 
 ## Issue
 
+> This issue is now fixed in `v4.4.2+`
+
 When I add this in query and run, it gives error
 
 Ref: [stackoverflow comment](https://stackoverflow.com/a/49587746/6892277)
